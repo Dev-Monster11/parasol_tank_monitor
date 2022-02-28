@@ -1,4 +1,4 @@
-from PySide2.QtWidgets import QApplication, QDialog, QLineEdit, QPushButton
+from PyQt5.QtWidgets import QApplication, QDialog, QLineEdit, QPushButton
 from maindlg import MainDlg
 from qt_material import apply_stylesheet
 import sys

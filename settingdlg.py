@@ -1,7 +1,7 @@
 
-from PySide2.QtWidgets import QApplication, QDialog
-from PySide2.QtCore import QTimer, QSize, Qt
-from PySide2.QtGui import QPixmap
+from PyQt5.QtWidgets import QApplication, QDialog
+from PyQt5.QtCore import QTimer, QSize, Qt
+from PyQt5.QtGui import QPixmap
 import qtawesome as qta
 import numpy as np
 import pyqtgraph as pg
